@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login Form</string>
+    <string name="directions">Please enter your username and password below to log in:</string>
+    <string name="login_error">Either User or Password is incorrect. Please try again</string>
+    <string name="login_success">You have now logged in</string>
+    <string name="user_name_hint">Enter your user name</string>
+    <string name="pass_word_hint">Enter your password</string>
+    <string name="login_button">LOGIN</string>
+</resources>
